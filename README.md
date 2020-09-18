@@ -38,5 +38,5 @@ To create your own parking lot-
 
 3. You can  run the test cases separately as python test_parking_lot.py. This runs the 6 test cases written in file. This is very useful when you want to create your own function and test it simultaneously and if you press help in your code then you will get the list of all the commands
 
-![Loading...](Images/Capture1.png)
+![Loading...](Images/Capture1.PNG)
 
