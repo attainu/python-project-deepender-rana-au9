@@ -34,5 +34,9 @@ To create your own parking lot-
 1. Clone the repository
 2. Run python ParkingLot.py to run without input test case file. This opens a shell where you can write your commands like -
 
-![Not found](Images/Capture2.PNG)
+![Loading...](Images/Capture2.PNG)
+
+3. You can  run the test cases separately as python test_parking_lot.py. This runs the 6 test cases written in file. This is very useful when you want to create your own function and test it simultaneously and if you press help in your code then you will get the list of all the commands
+
+![Loading...](Images/Capture1.png)
 
