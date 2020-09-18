@@ -32,11 +32,14 @@ argparse [(click here to know more)](https://docs.python.org/3/howto/argparse.ht
 
 To create your own parking lot-
 1. Clone the repository
-2. Run python ParkingLot.py to run without input test case file. This opens a shell where you can write your commands like -
+2. Run python ParkingLot.py to run the program. This opens a shell where you can write your commands like -
 
 ![Loading...](Images/Capture2.PNG)
 
 3. You can  run the test cases separately as python test_parking_lot.py. This runs the 6 test cases written in file. This is very useful when you want to create your own function and test it simultaneously and if you press help in your code then you will get the list of all the commands
 
 ![Loading...](Images/Capture1.PNG)
+
+# CONTRIBUTIONS
+Updates are always welcome, feel free to drop your suggestions! Looking forward for your contribution. ❤️
 
