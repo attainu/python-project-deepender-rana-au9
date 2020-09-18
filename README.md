@@ -34,4 +34,5 @@ To create your own parking lot-
 1. Clone the repository
 2. Run python ParkingLot.py to run without input test case file. This opens a shell where you can write your commands like -
 
-![Not found](~/Desktop/project/Inages/Capture1.png)
+![Not found](Images/Capture2.PNG)
+
